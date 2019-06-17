@@ -1,0 +1,1 @@
+docker build -t lol3r/goffmpeg .
